@@ -3,5 +3,13 @@
 	  "example sentence",
 	  "I am the world",
 	  "another example sentence"
-	  ]
+	  ],
+	"helloWorld": [
+		"I am the world",
+		"another world sentence",
+		"and this is the weird world"
+
+
+
+	]
 }
