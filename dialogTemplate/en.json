@@ -1,5 +1,6 @@
 {
 	"skill": "HelloWorldSkill",
+	"icon": "time",
 	"description": "This is my first skill for project alice",
 	"slotTypes": [],
 	"intents": [
