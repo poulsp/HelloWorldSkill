@@ -1,0 +1,22 @@
+{
+	"skill": "HelloWorldSkill",
+	"description": "This is my first skill for project alice",
+	"slotTypes": [],
+	"intents": [
+		{
+			"name": "world",
+			"description": "User wants to get a response from the world.",
+			"enabledByDefault": true,
+			"utterances": [
+				"world please",
+				"Please give me the world",
+				"Please tell about the world",
+				"World",
+				"World on",
+				"Please turn on the world",
+				"Run the world"
+			],
+			"slots": []
+		},
+	]
+}
