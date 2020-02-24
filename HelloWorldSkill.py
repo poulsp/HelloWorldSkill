@@ -9,8 +9,8 @@ class HelloWorldSkill(AliceSkill):
 		self._offline = False
 
 
-	@IntentHandler('HelloWorldIntent')
-	def helloWorldIntent(self, session: DialogSession):
+	@IntentHandler('helloWorld')
+	def helloWorld(self, session: DialogSession):
 		"""
 			skills can log useful information.
 			These will appear in the Web Interface and the logs file.

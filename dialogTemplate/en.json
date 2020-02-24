@@ -5,7 +5,7 @@
 	"slotTypes": [],
 	"intents": [
 		{
-			"name": "world",
+			"name": "helloWorld",
 			"description": "User wants to get a response from the world.",
 			"enabledByDefault": true,
 			"utterances": [
